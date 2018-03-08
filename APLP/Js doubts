@@ -1,0 +1,16 @@
+1) What is var, is it an int or its a variable type..like in c or java we do int i = ??
+
+2) var addList = function (list){.....in this what is function keyword..also how is this similar to haskell and how can we declare the function by assigning it to a variable also if considered the haskell way is addList a function or a variable.
+
+3) var addList = function(list) {
+if (list.length === 0) {
+return 0;
+}
+return list[0]
++ addList(list.slice(1));...How does this portion work, what does .slice do..is .slice a method if yes what all arguments it can take?
+}
+
+4)Since i am not familiar with oop that much so can u tell me what exactly is this.? and a few basic concept of object ,,like what is an object and what and where it is used.
+
+
+
